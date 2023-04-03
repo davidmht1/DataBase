@@ -5,17 +5,20 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:People.View">
 
-    <FlyoutItem Title ="Home">
+    <FlyoutItem Title ="Home"
+                Icon="home.png">
         <ShellContent
             ContentTemplate="{DataTemplate local:HomePage}"/>
     </FlyoutItem>
 
-    <FlyoutItem Title="Warehouse Workers">
+    <FlyoutItem Title="Warehouse Workers"
+                Icon="toolbox.png">
         <ShellContent
             ContentTemplate="{DataTemplate local:Warehouse}"/>
     </FlyoutItem>
-    
-    <FlyoutItem Title="Cars">
+
+    <FlyoutItem Title="Cars"
+                Icon="car.png">
         <ShellContent
             ContentTemplate="{DataTemplate local:CarView}"/>
     </FlyoutItem>
