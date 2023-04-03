@@ -1,5 +1,5 @@
 ﻿using People.Models;
-namespace People;
+namespace People.View;
 
 public partial class Warehouse : ContentPage
 {

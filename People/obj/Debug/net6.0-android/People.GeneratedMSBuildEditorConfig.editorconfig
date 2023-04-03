@@ -8,33 +8,39 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = People
-build_property.ProjectDir = C:\Coding\C#\SimpleDatabase\People\
+build_property.ProjectDir = C:\GitFolder\DataBase\People\
 
-[C:/Coding/C\#/SimpleDatabase/People/App.xaml]
+[C:/GitFolder/DataBase/People/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = People.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Coding/C\#/SimpleDatabase/People/AppShell.xaml]
+[C:/GitFolder/DataBase/People/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = People.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Coding/C\#/SimpleDatabase/People/Resources/Colors.xaml]
+[C:/GitFolder/DataBase/People/Resources/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = People.Resources.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Colors.xaml
 
-[C:/Coding/C\#/SimpleDatabase/People/Resources/Styles.xaml]
+[C:/GitFolder/DataBase/People/Resources/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = People.Resources.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles.xaml
 
-[C:/Coding/C\#/SimpleDatabase/People/View/Warehouse.xaml]
+[C:/GitFolder/DataBase/People/View/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.View.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\HomePage.xaml
+
+[C:/GitFolder/DataBase/People/View/Warehouse.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = People.View.Warehouse.xaml
 build_metadata.AdditionalFiles.TargetPath = View\Warehouse.xaml

@@ -1,1 +1,1 @@
-C:\Users\david\OneDrive\Desktop\All\Coding\C#\DataBase Practice\People\People\People.csproj;x64
+C:\GitFolder\DataBase\People\People.csproj;x64

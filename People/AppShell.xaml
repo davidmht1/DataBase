@@ -3,12 +3,17 @@
     x:Class="People.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:People"
-    Shell.FlyoutBehavior="Disabled">
+    xmlns:local="clr-namespace:People.View">
 
-    <ShellContent
-        Title="People"
-        ContentTemplate="{DataTemplate local:Warehouse}"
-        Route="MainPage" />
+    <FlyoutItem Title ="Home">
+        <ShellContent
+            ContentTemplate="{DataTemplate local:HomePage}"/>
+    </FlyoutItem>
+
+    <FlyoutItem Title="Warehouse">
+        <ShellContent
+            ContentTemplate="{DataTemplate local:Warehouse}"/>
+    </FlyoutItem>
+
 
 </Shell>

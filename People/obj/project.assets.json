@@ -28335,11 +28335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Coding\\C#\\SimpleDatabase\\People\\People.csproj",
+      "projectUniqueName": "C:\\GitFolder\\DataBase\\People\\People.csproj",
       "projectName": "People",
-      "projectPath": "C:\\Coding\\C#\\SimpleDatabase\\People\\People.csproj",
+      "projectPath": "C:\\GitFolder\\DataBase\\People\\People.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Coding\\C#\\SimpleDatabase\\People\\obj\\",
+      "outputPath": "C:\\GitFolder\\DataBase\\People\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
