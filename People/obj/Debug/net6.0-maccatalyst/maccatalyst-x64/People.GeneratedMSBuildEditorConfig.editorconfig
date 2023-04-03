@@ -34,6 +34,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = People.Resources.Styles.xa
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles.xaml
 
+[C:/GitFolder/DataBase/People/View/CarView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.View.CarView.xaml
+build_metadata.AdditionalFiles.TargetPath = View\CarView.xaml
+build_metadata.AdditionalFiles.RelativePath = View\CarView.xaml
+
 [C:/GitFolder/DataBase/People/View/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = People.View.HomePage.xaml

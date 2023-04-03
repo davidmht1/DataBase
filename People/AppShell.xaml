@@ -10,10 +10,17 @@
             ContentTemplate="{DataTemplate local:HomePage}"/>
     </FlyoutItem>
 
-    <FlyoutItem Title="Warehouse">
+    <FlyoutItem Title="Warehouse Workers">
         <ShellContent
             ContentTemplate="{DataTemplate local:Warehouse}"/>
     </FlyoutItem>
+    
+    <FlyoutItem Title="Cars">
+        <ShellContent
+            ContentTemplate="{DataTemplate local:CarView}"/>
+    </FlyoutItem>
+
+
 
 
 </Shell>
