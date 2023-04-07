@@ -54,7 +54,7 @@ namespace People.DataBases
                 //throw exception
                 if(string.IsNullOrWhiteSpace(car))
                 {
-                    new Exception("Valid name required");
+                    throw new Exception("Valid name required");
                 }
 
                 //inserts new car into table

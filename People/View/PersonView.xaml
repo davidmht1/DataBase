@@ -49,8 +49,6 @@
                         <Label Text="{Binding Name}"
                                FontSize="Medium"
                                Grid.Column="2"/>
-
-
                     </Grid>
                 </DataTemplate>
             </CollectionView.ItemTemplate>

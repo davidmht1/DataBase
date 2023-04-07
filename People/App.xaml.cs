@@ -9,7 +9,6 @@ public partial class App : Application
 
     public static CarRepository CarRepo { get; set; }
 
-
     public App(PersonRepository repo, CarRepository repoCar)
 	{
         InitializeComponent();

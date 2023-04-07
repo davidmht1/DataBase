@@ -56,9 +56,9 @@ namespace People.DataBases
 
                 // basic validation to ensure a name was entered
                  if (string.IsNullOrWhiteSpace(name))
-                {
-                    new Exception("Valid name required");
-                }
+                 {
+                    throw new Exception("Valid name required");
+                 }
 
 
                 // enter this line
@@ -67,10 +67,7 @@ namespace People.DataBases
                 StatusMessage = string.Format("{0} record(s) added (Name: {1}", result, name);
 
                 // TODO: Insert the new person into the database
-                result = 0;
-
-
-                
+                result = 0;            
             }
             catch (Exception ex)
             {
