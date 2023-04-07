@@ -46,8 +46,8 @@ build_metadata.AdditionalFiles.ManifestResourceName = People.View.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\HomePage.xaml
 
-[C:/GitFolder/DataBase/People/View/Warehouse.xaml]
+[C:/GitFolder/DataBase/People/View/PersonView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = People.View.Warehouse.xaml
-build_metadata.AdditionalFiles.TargetPath = View\Warehouse.xaml
-build_metadata.AdditionalFiles.RelativePath = View\Warehouse.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.View.PersonView.xaml
+build_metadata.AdditionalFiles.TargetPath = View\PersonView.xaml
+build_metadata.AdditionalFiles.RelativePath = View\PersonView.xaml

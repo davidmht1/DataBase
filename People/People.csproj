@@ -61,8 +61,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Compile Update="View\Warehouse.xaml.cs">
-	    <DependentUpon>Warehouse.xaml</DependentUpon>
+	  <Compile Update="View\PersonView.xaml.cs">
+	    <DependentUpon>PersonView.xaml</DependentUpon>
 	  </Compile>
 	</ItemGroup>
 

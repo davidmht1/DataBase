@@ -1,10 +1,10 @@
 ﻿using People.Models;
 namespace People.View;
 
-public partial class Warehouse : ContentPage
+public partial class PersonView : ContentPage
 {
 
-	public Warehouse()
+	public PersonView()
 	{
 		InitializeComponent();
 
