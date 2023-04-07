@@ -21,7 +21,7 @@
 
         <Label x:Name="CarMessage"
                Grid.Row="3"
-               Grid.Column="2"/>
+               Grid.Column="1"/>
 
         <Button Text="Get All Cars"
                 Grid.Row="4"

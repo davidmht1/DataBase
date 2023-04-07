@@ -13,8 +13,8 @@ public partial class CarView : ContentPage
     {
         CarMessage.Text = "";
 
-        App.PersonRepo.AddNewPerson(newModel.Text);
-        CarMessage.Text = App.PersonRepo.StatusMessage;
+        App.CarRepo.AddNewCar(newModel.Text);
+        CarMessage.Text = App.CarRepo.CarMessage;
     }
 
     public void OnGetButtonCarClicked(object sender, EventArgs args)
