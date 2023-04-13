@@ -29,10 +29,11 @@
                 Grid.ColumnSpan="2"
                 Clicked="OnGetButtonCarClicked" />
 
-        <CollectionView  x:Name="carsList" 
+        <CollectionView x:Name="carsList" 
                         Grid.Row="5"
                         Grid.Column ="1"
-                        Grid.ColumnSpan="2">
+                        Grid.ColumnSpan="2"
+                        SelectionMode="Single">
 
             <CollectionView.ItemTemplate>
                 <DataTemplate>

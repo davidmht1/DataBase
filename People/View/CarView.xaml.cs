@@ -21,7 +21,7 @@ public partial class CarView : ContentPage
     {
         CarMessage.Text = "";
 
-        List<Cars> people = App.CarRepo.GetAllCars();
-        carsList.ItemsSource = people;
+        List<Cars> cars = App.CarRepo.GetAllCars();
+        carsList.ItemsSource = cars;
     }
 }
